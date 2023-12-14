@@ -1,0 +1,23 @@
+mode: set
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:26.40,33.2 1 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:35.52,37.16 2 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:37.16,39.3 1 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:40.2,44.12 5 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:47.70,50.16 3 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:50.16,52.3 1 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:53.2,54.12 2 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:57.83,59.16 2 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:59.16,61.3 1 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:62.2,65.35 4 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:68.100,70.16 2 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:70.16,72.3 1 0
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:73.2,75.16 3 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:75.16,77.3 1 0
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:78.2,79.45 2 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:79.45,81.3 1 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:82.2,82.19 1 1
+github.com/wisesight/test-container-example/internal/services/post/mongo.go:85.85,90.2 1 1
+github.com/wisesight/test-container-example/internal/services/post/service.go:19.76,22.2 2 0
+github.com/wisesight/test-container-example/internal/services/post/service.go:24.85,27.2 2 0
+github.com/wisesight/test-container-example/internal/services/post/service.go:29.103,32.2 2 0
+github.com/wisesight/test-container-example/internal/services/post/service.go:34.57,38.2 1 0
