@@ -12,8 +12,7 @@ import (
 const COLLECTION = "posts"
 
 type MongoRepository struct {
-	client *mongo.Client
-	coll   *mongo.Collection
+	coll *mongo.Collection
 }
 
 type RawMongoPost struct {
@@ -84,7 +83,6 @@ func (r *MongoRepository) FindByDateTime(ctx context.Context, dateTime time.Time
 
 func NewMongoRepository(client *mongo.Client, databaseName string) *MongoRepository {
 	return &MongoRepository{
-		client: client,
-		coll:   client.Database(databaseName).Collection(COLLECTION),
+		coll: client.Database(databaseName).Collection(COLLECTION),
 	}
 }
