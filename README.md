@@ -7,6 +7,7 @@ Welcome to the TestContainer Examples Repository! This repository is dedicated t
 The repository is organized into language-specific directories:
 
 - `go`: Contains Golang example code.
+- `java`: Contains Java example code. Thank for [@up1](https://github.com/up1) for contribution
 - `typescript`: Contains Typescript example code. Open for contributions!
 - `python`: Contains Python example code. Open for contributions!
 
